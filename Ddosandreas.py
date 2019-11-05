@@ -2,7 +2,7 @@
 # - * - coding: utf-8 - * -
 
 # python 3.3.2+ Skrip Dos Hammer v.1
-# oleh Can Yalçın
+# oleh 4ndre4s5
 # hanya untuk tujuan hukum
 
 
@@ -11,8 +11,8 @@ dari optparse import OptionParser
 waktu impor , sys, socket, threading, logging, urllib.request, acak
 
 def  user_agent ():
-	uagent global
-	uagent = []
+	uagent  global yang
+	uagen= []
 	uagent.append ( " Mozilla / 5.0 (kompatibel; MSIE 9.0; Windows NT 6.0) Opera 12.14 " )
 	uagent.append ( " Mozilla / 5.0 (X11; Ubuntu; Linux i686; rv: 26.0) Gecko / 20100101 Firefox / 26.0 " )
 	uagent.append ( " Mozilla / 5.0 (X11; U; Linux x86_64; en-US; rv: 1.9.1.3) Gecko / 20090913 Firefox / 3.5.3 " )
